@@ -64,7 +64,7 @@ python -m pytest test/api_tests.py
 
 
 ## Routes
-###`/api/appointments/<USER_ID>`
+### `/api/appointments/<USER_ID>`
 #### Parameters
 Parameter|Type|Required|Description
 ---------|----|--------|-----------
